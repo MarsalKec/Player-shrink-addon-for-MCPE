@@ -1,0 +1,120 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+    "name": "Enhanced Biomes Addon",
+    "role": "From time to time, you need to update the appearance of Minecraft Bedrock so that the game does not bother. But typical tools are sometimes not enough, and standard texture packages and shaders do not give the desired effect. In this case, try the Enhanced Biomes addon! After installing it, each biome in the MCPE game will become better. The spawn of hills, trees, villages and other elements will change and become cooler! The player will have a greater chance of stumbling into hidden, atmospheric villages. And biome landscapes will bewitch the views. In addition, this addon contains shaders that will change the lighting and elaboration of the game world. If you look at the screenshot of Hell, you will understand how much the lighting will change.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhempat_desc.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/enhanced_biomes.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhtiga_desc.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/empatpuluhdua.png"
+  }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/rjv57E19ezyuUfq_SbfuNwOg5jGi0XnRn8IMVJIg8f1iyBorUyVCfUYqT9idhGhLaFMyAnC8lXxdmBeKN1zCA7u6C_EIUrTYTvY",
+    "view_skin": "https://lh3.googleusercontent.com/OKpqBUELs0rGGTo-2fp9pWDyJFyg9V6HIJ4AJ03MESe9MqHBr3Ye4RWpBVSHiW8mHPISW8mOF1XUw26F4SETGPs2lTTdD9RqFQ"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/cBqSQLFago6ZK9JyQPfnw0S5kv-Vd1qdux5Dm1Ws4t_Xjsx8gjDAxk5TOzxz1B9W0abBHYtb1vp_YG1hKipFSg",
+    "view_skin": "https://lh3.googleusercontent.com/TH5NxTfw8yO8SX-QJzXgdjIkci-LQawxmU2dKyQqbefGQP0DHi45Cxi84MhCXqPf8lPEUr6p_rkwYEvL3UG5"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/YJww4Ue4mNwxNzsYpjJ0X8RvUQ6UhKnP3cE4zpy3INugHAGDurdgX883Jefr_0-wuT_zGPCW-96vKZ3-qYzF",
+    "view_skin": "https://lh3.googleusercontent.com/1P_hu9mvUHmXJyb9_I02PzEom7fF8b6BxZ71KE0DQFhF-de2myRoMT2URU4ZK4YSpJQd9TvYl1gJ3dFyHZug"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kkkvOmc5qVLTFcihZbIuenoHxmvGYYnb_FKbMCQxzOk5PiIj7yK65Wa8GOG45HxIGr4wUGQtaCAd5XREK4iHxA",
+    "view_skin": "https://lh3.googleusercontent.com/kvykZgBFQAseShnE3uI7uJn7fuK71ElXLNqDtH51vr79c_JHi7WrZl_dAT-WINkk0YA_S8-0rPgPXwWalKCbUA"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh4.ggpht.com/iTR99XEP0oKbg-xYl909LFmfZ52dVOT0O1otGqk3iUS8II64rPfwTvZHyF2n0ZLLkSCvNo_5yDSGDPl1doXM",
+    "view_skin": "https://lh3.googleusercontent.com/OuWKr1k98xGGXwbKinuE-NvziAptvzOtyG7D0StUJIGOk74N6jaDCR0xdI5GsdekI_pjMSOU4y-NV6oYRBHzsAE"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh5.ggpht.com/DJa43uiTnkBvrvKOUCn7J4GhtD8JW9rID9S3YnRgJkR9HO1W1M_pBcuCpOetbo7FUWzYRziIsWGXGEUzfX-o3g",
+    "view_skin": "https://lh3.googleusercontent.com/x2Equ-a89ta0J749EGCCaaAskDgzr78fOwVZT1NEaRriq1XivZVPERi5kv2-7qDBEFas_uCsHhTLW_wc_xMR"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
