@@ -1,120 +1,899 @@
 {
-  "Config": [
+    "Config": [
+      {
+        "interval": 4,
+        "backup": "unity",
+        "status": true,
+        "link": "https://google.com/",
+        "contact": "https://google.com/",
+        
+        "addon": true,
+        "maps": true,
+        "texture": true,
+        "skin": true,
+        "more": false,
+        
+        "admob_open_ads": "ca-app-pub-3044835834543602/3813796273",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111xxx",
+        "admob_inter": "ca-app-pub-3044835834543602/8476215571",
+        "admob_native": "ca-app-pub-3044835834543602/1379204629",
+       
+        
+        "unity_banner": "Banner_Android",
+        "unity_inter": "Interstitial_Android",
+        
+        
+        "applovin_banner": "unitid",
+        "applovin_inter": "unitid",
+        "applovin_native": "unitid",
+        
+        "ironsource_banner": "1215fccad",
+        "ironsource_inter": "1215fccad"
+        
+        
+      }
+    ],
+    "Addon": [
+      {
+        "name": "Minecraft Shrink Ray Addon",
+        "role": "Want to shrink everything from trees to houses? Well this is the addon for you! Simply shoot the shrink ray at any target and it will shrink into a 7^3 area. All you have to do is apply the behavior pack and you're good to go.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/1/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/1/shrinkray.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/1/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/1/3.png"
+    },
     {
-      "interval": 5,
-      "backup": "unity",
-      "status": true,
-      "link": "https://google.com/",
-      "contact": "https://google.com/",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
-      "skin": true,
-      "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
-      "unity_banner": "Banner_Android",
-      "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
-      "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
-      
-      
+        "name": "Black Holes Addon (Bug Fixes and Small Changes!)",
+        "role": "Black Holes are the most extreme things in the universe, capable of ripping planets apart and trapping light with no way to escape. If you are anything like me, you are probably endlessly fascinated by the way Black Holes work, and now you can have them in Minecraft Bedrock Edition too! Let's get you started with the basics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/2/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/2/Voids_Black_Holes.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/2/3.png"
+    },
+    {
+        "name": "Every Mob Has Their Own Totem",
+        "role": "How it works? Every mob that has a custom totem has a 25% chance of dropping a totem, or a chance if you like. Every totem has its own special abilities. ",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/3/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/3/Every Mob has their own Totem.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/3/3.png"
+    },
+    {
+        "name": "UHc 4.0 (16 Scenarios and More)",
+        "role": "Bringing the world uhcs on the next level with this add-on. Up to 50 players can enjoy this uhc with scattering, moving border, spectatesystem etc. and creating your custom game with own decisions about configs (when the border shrinks e. g.), teamsize, scenarios and extra settings.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/5/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/5/VanillaUHCs_1603412649.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/5/3.png"
+    },
+    {
+        "name": "Kirby Add-On | Ver 1.1",
+        "role": "Want to be Kirby? We suggest you install this add-on!You will be able to inhale the entity, swallow, spit out, fly, or swim like Kirby with you friends!This addon gives you best experience of Kirby. ",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/8/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/8/kirby_n_ver1.1.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/8/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/8/1.png"
+    },
+    {
+        "name": "OriginsPE - Origins & Classes - Bedrock Edition (Add-On) [v1.19.10+]",
+        "role": "Begin your Minecraft adventure, in a more unique way with the Origins add-on! Choose from the 15 different Origins at the start of the game, and up to 13 different Classes that affects your gameplay.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/9/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/9/OriginsPE.v3.1.r4isen1920.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/9/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/9/3.png"
+    },
+    {
+        "name": "Origins+ 1.5.1.1 (Hotfix)",
+        "role": "Origins+, Created by me (ShadowSharkPVP), Had help from -Folk-#6492 with the Origin descriptions. Based on the java version of the mod by APACE100",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/10/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/10/Origins+ 1.5.1.1.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/10/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/10/1.png"
+    },
+    {
+        "name": "Admin Panel V4 NBT Commands (1.13+)",
+        "role": "This script adds an admin panel to the game which can be accessed by players who have permission. Admins can control the world using a custom user interface with fast settings or by typing any command and some basic NBT commands. You can use it if world owner gave you permission.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/12/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/12/Admin Panel V4.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/12/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/12/3.png"
+    },
+    {
+        "name": "Mob Indicator V6 Reworked (Script) (1.13+)",
+        "role": "This is a script which makes use of the latest scripting feature in 1.13 for Minecraft. It adds a status indicator on the screen when aiming/focusing on a mob. It's a great example to show off some of the new modding capabilities possible with the new scripting API for Minecraft: Bedrock Edition. It's similar to 'F3' for Java Edition. ",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/13/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/13/mob indicator V6.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/13/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/13/3.png"
+    },
+    {
+        "name": "Rhex Mutant Creature (Improvements, New Mobs & Bug Fixes)",
+        "role": "Hello guys my name is rhex mcpe Im an addon creator and now I made one of the famous mod the mutant creture mod this addon not really look similar to java but Many people say it so close to the mod",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/1/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/1/rhexmutantr(2).mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/1/dus.png"
+    },
+    {
+        "name": "Ben 10 Add-on V4.0 (New Aliens and Enemies UPDATE!)",
+        "role": "Ben 10! The protector of Earth! Is now in Minecraft with this add-on. Benjamin Tennyson is the kid who has destined to have the Omnitrix among his cousin Gwen Tennyson and his grandpa Maxwell Tennyson. Now that Ben got the omnitrix, he is now able to transform into an alien to fight monsters and villains. But Ben can't save the Minecraft world without the help of Gwen's magic powers, and Grandpa Max's combat and weapon skills. Ben's enemies have also extraordinary powers like Ben and his companions have, but our hero Ben will not let them win and conquer the Minecraft world. So, what are you waiting for, discover now how Ben and his companions use their powers and skills to defeat their powerful enemies in the Minecraft world.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/3/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/3/Ben10 Add-on V4 (LITE VERSION).mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/3/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/3/dua.png"
+    },
+    {
+        "name": "Moles Add-On",
+        "role": "This is so strange, that Mojang don't want to add moles in MC. Time to change this, just download my first add-on, that brings cute and tameable moles in your Minecraft world. Wild ones, will be attack silverfish, soon I will try to make tamed ones also attacking those ditty insects.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/4/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/4/Moles-Add-On_1594979146.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/4/lima.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/4/dua.png"
+    },
+    {
+        "name": "Titan Enderman Addon V3 Ender Lord",
+        "role": "Are you also bored cuz they're only 2 bosses in Minecraft? Well, try this add-on added 1 boss, 2 new mobs, 1 3d gun this titan enderman mob is made on Minecraft java mods now available on MCBE AND MCPE!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/5/satu.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/5/Titan_Enderman_V3__1K_SUBS_GIFT.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/5/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/5/dua.jpeg"
+    },
+    {
+        "name": "Adventure Time Addon",
+        "role": "Adventure Time Addon by HyperError303 adds new weapons, mobs, ores, and more based on the popular tv series of Adventure Time!!! It's time for you to be the greatest hero the land of Ooo has ever known!!!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/6/tiga.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/6/Adventure Time Addon 2.0_resource_pack.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/6/satu.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/6/empat.jpeg"
+    },
+    {
+        "name": "Better Villagers And Illagers",
+        "role": "So have you ever wanted more villagers? Well, we have some here! The villager's names are Mutant Villager, The Villager Wizard, Spy Villager, Evil Wizard, Villager Guard, Villager Guard 2, The Lumberjack, Ninja, The Enchanter, Illusioner, and many more!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/8/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/8/Better Villagers And Pillagers.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/8/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/8/dua.png"
+    },
+    {
+        "name": "Billeys Mobs 4.1",
+        "role": "This is an add-on which implements 26 new mobs to the game as well as a boss and many items. It's a great addition to the game if you want more pets or fish. The mobs include everything from sea creatures such as the sharks and the pizzafish to pets which live on land such as the banana duck and the skeleton cat",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/9/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/9/Billeys Mobs 4.1.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/9/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/9/dua.png"
+    },
+    {
+        "name": "LiL's Keplerians Horror Addon v5",
+        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/12/satu.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/12/LiLs_Keplerians_Horror_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/12/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/12/dua.jpeg"
+    },
+    {
+        "name": "Mini Statues Addon",
+        "role": "This addon adds 7 mini statues the size of one block and new zombies necessary to create these statues. All seven statues are made the same way and work the same way.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/13/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/13/MiniStatues.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/13/enam.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/13/empat.png"
+    },
+    {
+        "name": "WITHER STORM...",
+        "role": "Yes! Wither storm! Your dream comes true! I bring you this addon come in and see it!  It has 6 stages you can kill it if you are strong and clever enough.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/16/empat.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/16/SW-Wither-StormV2new.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/16/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/16/dua.png"
+    },
+    {
+        "name": "Play Minecraft As Mutant Zombie?! (Bug Fixes)",
+        "role": "Hey, I'm back again. My name is Rhex. Now I made an addon called Play as Mutant Zombie. What I mean is when you spawn into the game you become the Mutant Zombie. In the next update I make it function so you can fight your friend. Ur health became 150 and damage is 16 in area with knock back u can punch block to use smash just like player do with the melee attack and sneak to use the roar attack that allow u to summon zombie and damage enemy in area.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/17/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/17/play_as_mutant_zombie.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/17/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/17/dua.png"
+    },
+    {
+        "name": "NEW Mutant Creatures Add-on (1.16+)",
+        "role": "NEW Mutant Creatures Add-on adds 16 mutants along with minions and an easter egg in MInecraft Bedrock with incredible powers.. If you are looking for an add-on to increase the game difficulty a few notches then this is a great option. This means that the world will be a lot more difficult as each mutant is much stronger than their predecessors. Neither of the mutants get affected by fall damage or knockbacks.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/18/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/18/NEW Mutant Creatures V2.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/18/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/18/dua.png"
+    },
+    {
+        "name": "Colorful Mutant Wolves Addon",
+        "role": "This is an Add-On which let the Mutant Wolves dye in any color. These Mutant Wolves are stronger, dyeable and can be used similar as a horse for riding. This only adds Mutant Wolf and Skeleton Wolf from NEW Mutant Creatures to bring it along in great adventures along with something else....",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/19/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/19/Colorful Mutant Wolves.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/19/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/19/dua.png"
+    },
+    {
+        "name": "Mutant More Addon",
+        "role": "New mutant more addon adds 3 mutant and new abilities this addon will make your survival its harder than you think.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/mutant/22/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/mutant/22/mutant more addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/mutant/22/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/mutant/22/1.png"
+    },
+    {
+        "name": "Gijinka! add-on (beta 1.10.0.3 - 1.11.0.1)",
+        "role": "A brief explaination to what a Gijinka is, it's basically a personification of non-human beings and this add-on allows you to turn almost each and everone of the existing vanilla mobs into cute human girls ( even the wandering trader and the new illager beast ) You can also turn the Wither boss and Ender dragon as gijinkas! These new humanoid versions of mobs tend to like flowers but has no interest into dandelions whatsoever. They'll sprint away from any monster they see.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/14/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/14/Gijinka!.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/14/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/14/3.png"
+    },
+    {
+        "name": "Smaller Bees",
+        "role": "This is the first addon that I create to officially publish. Search and search, and I did not find any texture pack or addon that fulfilled what I wanted; so I had to do it myself.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/15/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/15/Smaller-bees-By-Luferchu.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/15/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/15/3.png"
+    },
+    {
+        "name": "Wolves+ (v3.0.1 Update)",
+        "role": "The Wolves+ add-on adds new wolf-centered features to Minecraft. It adds more types of wolves to the overworld, nether and End, as well as some new items that can help wolf owners play with & protect their canine friends. Some of the new wolf types have special abilities, such as being able to teleport or swim underwater!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/18/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/18/WolvesPlus v3.0.1.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/18/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/18/3.png"
+    },
+    {
+        "name": "Pokemetels Marvel (Disconnected Final Update) BEH",
+        "role": "Pokemetels Marvel This is a marvel superheroes addon, this addon allows you to make and fight as marvel characters in Survival Each suit has it's own set off powers which can be selected by using the cycling arrows and then activating it by using the activator There will be over 100 different suits which includes villains, heroes and more, you will also be able to fight bosses and obtain mutant powers and alot more!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/Marvel 6.0.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/3.jpeg"
+    },
+    {
+        "name": "Pokemetels Marvel (Disconnected Final Update) RES",
+        "role": "Pokemetels Marvel This is a marvel superheroes addon, this addon allows you to make and fight as marvel characters in Survival Each suit has it's own set off powers which can be selected by using the cycling arrows and then activating it by using the activator There will be over 100 different suits which includes villains, heroes and more, you will also be able to fight bosses and obtain mutant powers and alot more!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/5.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/Marvel 6.0 Res.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/4.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/19/2.jpeg"
     }
-  ],
-  "Addon": [
+    ],
+    "Map": [
+      {
+        "name": "Castle - Illusion (CB Creation)",
+        "role": "So, you are on the map. In front of you is a small house. Do you think he is ordinary? Not! Upon entering it, a surprise awaits you... You will open the hatch, climb the stairs, climb the steps higher and higher... Wait! Why did you rise so high? This is because when you entered the building, it enlarged!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/4/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/4/2.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/4/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/4/3.png"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Caves and Cliffs Showcase Map",
+        "role": "arn all features about the new Caves and Cliffs update with this map. You can learn about the new Glow Item Frame, the new Glow Squid, the new Glow Ink Sac, and more!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Caves and Cliffs/5/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Caves and Cliffs/5/cavesandcliffs1_16_220_50.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Caves and Cliffs/5/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Caves and Cliffs/5/dua.png"
+    },
+    {
+        "name": "Ice Scream 1 In MCBE (Horror)",
+        "role": "This map is based on a popular mobile horror game named Ice scream horror neighbourhood. It was originally made by Keplerians team, and now it's been recreated in Minecraft bedrock edition as a horror map. What's the story? A boy named Charlie, was captured and frozen by an evil ice cream maker called Rod. Your main task is to rescue the boy alive without getting caught by Rod, and you will need to find the right items in order to help Charlie. How many players can the map support? It's recommended to play the map with no more than 3 players or the map could lag. I hope you like it.😊",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/2/tiga.png",
+        "file_url": "https://kossandroid.com//Data Android/Minecraft/ice scream/2/IceScreamMCBE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/ata Android/Minecraft/ice scream/2/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/2/dua.png"
+    },
+    {
+        "name": "Ice Scream 4 Rebuilt",
+        "role": "You Know Ice Scream Game Right? if you dont know, well its a horror game that you need to save the kid kidnapped by a ice cream man by solving puzzles and then dont get caught! game made by keplerians, download the game on playstore!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/satu.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/iceScream5fanv3.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ice scream/3/dua.jpeg"
+    },
+    {
+        "name": "The Lighthouse",
+        "role": "You live in a Lighthouse. You have no one but yourself. Turtles come and sit on your island. You don�t have anything to do. Or do you? Is there any way you can beat the game without leaving your island? Download today to find out!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhdua_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/l7THE 4LIGHTHOUSE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/empatpuluhsatu.png"
+    },
+    {
+        "name": "The Lighthouse",
+        "role": "You live in a Lighthouse. You have no one but yourself. Turtles come and sit on your island. You don�t have anything to do. Or do you? Is there any way you can beat the game without leaving your island? Download today to find out!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/empatpuluhsatu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/l7THE 4LIGHTHOUSE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/41/delapanpuluhdua_desc.png"
+    },
+    {
+        "name": "Enhanced Biomes Addon",
+        "role": "From time to time, you need to update the appearance of Minecraft Bedrock so that the game does not bother. But typical tools are sometimes not enough, and standard texture packages and shaders do not give the desired effect. In this case, try the Enhanced Biomes addon! After installing it, each biome in the MCPE game will become better. The spawn of hills, trees, villages and other elements will change and become cooler! The player will have a greater chance of stumbling into hidden, atmospheric villages. And biome landscapes will bewitch the views. In addition, this addon contains shaders that will change the lighting and elaboration of the game world. If you look at the screenshot of Hell, you will understand how much the lighting will change.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhempat_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/enhanced_biomes.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/empatpuluhdua.png"
+    },
+    {
+        "name": "The Backrooms Map 1.3v",
+        "role": "Always wanna explore the backrooms in minecraft so bad but  you are too lazy to make one by yourself? Well dont worry! Then this map is for you! What is the backrooms? The backrooms is a endless room that have entities and alot of levels.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/1/2.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/1/TheBackroomsMap_Darkness (1).mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/1/3.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/1/4.jpeg"
+    },
+    {
+        "name": "MB's Backrooms",
+        "role": "Ever wanted to explore the Backrooms in Minecraft: Bedrock Edition?...Ever wondered what would happen if you managed to clip out of your Minecraft world?Or do you just want to get lost in a spooky maze-like environment?Well this is the map for you!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/2/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/2/MBBackrooms.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/2/3.png"
+    },
+    {
+        "name": "The BackBlocks 1.1 Fun Update! =) (Minecraft The Backrooms)",
+        "role": "Are you a fan of the backrooms fandom? and have you ever wanted a Minecraft map that actually FEELS like The Backrooms? instead of just some maze created by someone? (sorta) well this map aims to try and create the backrooms into Minecraft!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/1.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/TheBackBlocks.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/1.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/3/1.jpeg"
+    },
+    {
+        "name": "The Backrooms",
+        "role": "If you are not careful and you noclip out of reality in the wrong areas you will end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/thebackrooms.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/4/3.png"
+    },
+    {
+        "name": "The Backrooms",
+        "role": "I created this map back in 2019, I'm deciding to share this to the world. It's a pretty big map of The Backrooms, infinite hallways with flickering lights.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/The Back Rooms.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/6/2.png"
+    },
+    {
+        "name": "The Backrooms (Not Finished Yet)",
+        "role": "The Backrooms is a creepy place with infinite rooms, and this project took 2 days. The Backrooms is just like a maze with scary humanoid creatures food is scarce here. But this map is actually on peaceful mode and it's easy to get lost here.s",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/7/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/7/The_Backrooms.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/7/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/7/3.png"
+    },
+    {
+        "name": "Kit PvP Arena (v 1.1)",
+        "role": "With 4 standard classes and 4 SPECIAL classes, there is plenty to choose from! Never again will you be bored when fighting other people, since now, you can battle with axes, potions, wolves, and even fire pearls! Just wait! It even gets better! Along with these astounding features, you can also do other things that not even server Kit Pvps do; Mining and collecting!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/8/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/8/KIP PVP V2.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/8/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/8/3.png"
+    },
+    {
+        "name": "Five Nights at Freddy's Custom Map",
+        "role": "This is a custom map I that I created based off of the Five Nights at Freddy's series created by Scott Cawthon. This map can be used for roleplays or just to explore. This is the first map I have ever completed so don't expect a high quality map.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/9/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/9/Fnaf_Custom_Map.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/9/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/9/3.png"
+    },
+    {
+        "name": "Modern StarterHouse",
+        "role": "This world s for people who don't want to do all the during stuff in survival! A modern house with wood quartz Glowstone White/black Stained glass. At has a 12 chest storage room and a mine! In the backyard: there's a plant farm, underground animal farm elytra flying area! \n\n All doors are Redstone!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/10/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/10/ModernStarterWorld.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/10/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/10/3.png"
+    },
+    {
+        "name": "The Backrooms Horror Map 2 (1.17)",
+        "role": "This map is the recreation of the infamous The Backrooms Creepypasta. This map is not a sequel to the Backrooms map 2020. Its a remake with accuracy, and sounds.",
+        "image": "https://kossandroid.com//Data Android/Minecraft/Backroom/11/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/11/The Backrooms 2.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/11/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/11/3.png"
+    },
+    {
+        "name": "Backrooms- MCPE/BE Adventure Map!",
+        "role": "Have you ever wanted the insanity of the backrooms in minecraft bedrock? The buzzing lights and moist carpet? Will this map is for you because now you can get jumpscared by unknown creatures with all of your friends! Just don’t clip too far…",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/14/atu.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/14/BACKROOMS - MCPE-BE map.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/14/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/14/tiga.png"
+    },
+    {
+        "name": "TYA - Anvil Drop",
+        "role": "Anvil Drop is a game where Anvils fall down on you, Your objective is to dodge these Anvils in order to win.TYA - Anvil Drop Includes Multiple Different Levels with each of them having 5 Rounds in which Anvils dropThere are also 3 Different difficulties to choose from, [Easy], [Medium], and [Hard]",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/6/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/6/TYA - Anvil Drop.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/6/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/6/3.png"
     }
-  ],
-  "Map": [
+    ],
+    "Texture": [
+      {
+        "name": "ShyPVP Pack (Survival Friendly)",
+        "role": "Hello and welcome to my own, custom pack. Shy PVP. This pack is designed for vanilla gameplay, PVP, and generally aims to improve Minecraft's vanilla textures, while maintaining the original feel and style of the game.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/7/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/7/ShyPVP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/7/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/7/3.png"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "SHRINK [Doubling Down Size Addon]",
+        "role": "Don't you HATE you hate being tall, you just don't want to to be hitting your head on everything, well now I can fix it, you can now be 1 BLOCK TALL",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/11/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/11/SHRINK.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/11/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/11/3.png"
+    },
+    {
+        "name": "ReBuilt Shader",
+        "role": "ReBuilt Shader, a shader pack rebuild from scratch, is the successor of the famous UltraMax Shader. Using new rendering methods to create a new stunning visuals at little performance cost.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png"
+    },
+    {
+        "name": "SufiCraft Shader v0.2",
+        "role": "This shader just a simple shader but it will make your minecraft better. There are some future in this shader to make it beautiful. You can use this shader to your world to make it better.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/tiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/SufiCraft-Shader-v0.2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/empat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/dua.png"
+    },
+    {
+        "name": "Energy Shaders",
+        "role": "Energy Shaders makes your world look much better. With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free! Energy Shaders is one of the first shaders to offer full support for Windows 10, iOS and Android. The most noticeable differences are for the water and lighting. The combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience. It also comes with some nice 32�32 clear glass textures.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/enam_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/Energy Shaders v. 3.7.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/tiga.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/lima_desc.png"
+    },
+    {
+        "name": "HTRE Shader",
+        "role": "HTRE Shader is one of the best shaders for slow devices, such as a Kindle Fire HD8 7th gen, which can barely run any nice shaders. I tried the highest rated shaders on the Kindle and it lagged so much! That is why I created the HTRE Shader! I wanted a good shader with no lag at all! If you want that you should download this shader!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/duabelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/HTREShader/HTREShader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/sebelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/enam.png"
+    },
+    {
+        "name": "UltraMin Shader",
+        "role": "WARNING! This is not UltraMax Shader. The shader that you�re looking for is in a different post. UltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals, the original intention of UltraLite Shader. In fact, this shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader. UltraMin Shader, while maintaining fair performance, is designed to be as compatible as possible to as many devices as possible. Apart from that, UltraMin Shader will serves as UltraMax Shader�s experimental shader. Support both Windows 10 and Android version of Minecraft Bedrock Edition (Based on my testing: Lenovo ThinkPad Edge E420s, Huawei P9).",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tujuh.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/UltraMin Shader 1.0.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tigabelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/empatbelas_desc.png"
+    },
+    {
+        "name": "EVO Shader Mod V1.2.1",
+        "role": "EVO Shader will bring your MCPE to �realistic looking� with realistic lighting, it�s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more, I hope you all enjoyed it",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/EVOShaderModV1.2_REV33.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/limabelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/8/enambelas_desc.png"
+    },
+    {
+        "name": "ChunkBounds Shaders",
+        "role": "Simple resource-pack, which shows you the boundaries of all chunks. Every Chunk is 16 blocks in the x and the z Direction. Useful on some Servers where you have to claim chunks to build on This pack shows the bounds of every chunk in your world. The chunks are outlined by red markers, so they are very easy to spot, and especially so when it�s nighttime. Finding the exact positioning of chunks in Minecraft: Bedrock Edition can be quite tricky, but with this pack it�s so much easier. It works for both Android, iOS and Windows 10.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/tujuhbelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/ChunksBoundsShaders v.1.0.3.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/delapanbelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/9/sembilan.png"
+    },
+    {
+        "name": "Simple Shader (Previously SSPEShader)",
+        "role": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven�t been able to use any of the other shader packs. It�s a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sepuluh.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/SimpleShader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/sembilanbelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/10/duapuluh_desc.png"
+    },
+    {
+        "name": "Kuri Shaders (Android)",
+        "role": "Kuri Shaders is a resource pack which brings improved ambient to the world and also new effects for entities. At this moment in time it is only available for Android devices. It�s recommended to be using the latest beta. This new shaders pack will make your world come to alive more and make it more interesting to explore as it�s a general improvement of the graphics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/sebelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/Kuri Shaders v1.0.0 (MCBE 1.8+).mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/duapuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/11/duapuluhdua_desc.png"
+    },
+    {
+        "name": "Tint Shader (Windows 10)",
+        "role": "Tint Shader is adds beautiful new skies, shadows and lighting to Minecraft: Bedrock Edition. Due to certain limitations it�s currently only available for Windows 10 (PC) users. During the night the sky is lit up by amazing northern lights. Not only does these shaders make the world more realistic but it also adds another whole new quality of exploration to the game as everything is more beautiful to explore.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duapuluhtiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/[Windows10 TEST3.0]Tint Shader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duapuluhempat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/12/duabelas.png"
+    },
+    {
+        "name": "WinterCraft Shader",
+        "role": "This shader will turn your world into a winter wonderland. The main and most noticeable difference is the constant white fog. Another feature is the completely revamped skybox which includes white puffy clouds. At this point it only appears to be working for Android and some other devices and it�s also not as well optimized for nighttime compared to daytime.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/tigabelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/WinterCraft.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/duapuluhlima_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/13/duapuluhenam_desc.png"
+    },
+    {
+        "name": "Psychedelic PE Shader",
+        "role": "This shader alters the graphics in Minecraft to look stranger and more vibrant. The entire world appears as if it is an entire living organism as it will continuously pulsate and shift colors. It�s a quite overwhelming experience and it would no doubt be more difficulty trying to survive in Minecraft while using this shader.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/empatbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/psychedelicpe.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/duapuluhtujuh_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/14/duapuluhdelapan_desc.png"
+    },
+    {
+        "name": "BLPE Shaders",
+        "role": "BLPE Shaders turns Minecraft into something much more beautiful to experience. The colors for the grass, leaves and other terrain blocks look much more vibrant and the design for the water also looks more shiny and realistic. However, since this is the first release there are some flaws. For example, the water is completely still and doesn�t move and also the clouds during the day looks just as they do originally.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/tigapuluh_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/blpe-shaders.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/limabelas.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/duapuluhsembilan_desc.png"
+    },
+    {
+        "name": "Beautiful Swamp Water! (Shader)",
+        "role": "Want to build a great build in a swamp but sick of the ugly water? Then look no further than this helpful resource pack that will make swamps look like normal rivers. It works really well with my builds and if you want to do the same for yours than just download this pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhsatu_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/Swampfixer[2].mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhdua_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/enambelas.png"
+    },
+    {
+        "name": "Zebra Shaders PE",
+        "role": "Zebra Shaders is a realistic shaders pack that is made to be able to run on mobile low devices, with beautiful coloring and comfortable in sight. zebra shaders are very suitable for you to use when playing survival or creative.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tujuhbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/Zebra Shaders v1.8.1 [Bug Fix].mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhempat_desc.png"
+    },
+    {
+        "name": "TTW Shader",
+        "role": "The Thin White Shader It is a realistic shader whose main function is to run on most low-end devices, with realistic shadow, soft lighting and impressive skies. Support for mid-low range phones This Shader tries to give a new elegant and realistic look to Minecraft, try to optimize it by avoiding changing textures so that it can run on most devices.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/delapanbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/TTW Shader v0.17.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/tigapuluhlima_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/18/tigapuluhenam_desc.png"
+    },
+    {
+        "name": "EB SHADER (Android/iOS) (1.14+)",
+        "role": "EB shader or Enhanced Biomes shader was the shader that i've made and used in my previous addon Enhanced Biomes. I've made this page to showcase this shader because i'm not able to do so in my previous work, so you can now have a wider look on this shader. This Shader is for Minecraft (Android / iOS). If you want to check the Enhanced Biomes addon, the link is at the bottom part of this page.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhtujuh_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/EB SHADER.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhdelapan_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/19/tigapuluhdelapan_desc.png"
+    },
+    {
+        "name": "Source Reload Shader (Windows 10)",
+        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it�s only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/tigapuluhsembilan_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/[Ultra]Source Reload Shader 1.2 Ultra W10.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/empatpuluh_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/20/duapuluh.png"
+    },
+    {
+        "name": "TrippyPE Shader",
+        "role": "TrippyPE is most likely something you've never experienced in Minecraft PE. It makes the entire world look wavy and unless you knew you had installed it you probably would have started to question your own sanity. The game is still entirely playable but things will definitely look a whole lot different which as a result makes playing it more difficult.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhsatu_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/trippype_shader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhsatu_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/21/empatpuluhdua_desc.png"
+    },
+    {
+        "name": "Round World Shaders",
+        "role": "Are you a flat world believer? Well, no more I suppose! This shader makes the world in Minecraft look more round. It�s only the player who uses the resource pack which will be affected by this great visual change. It]'s by no means a realistic pack as you can't really sense the shape of the Earth just by walking. It's still pretty cool though. Beware though, it might cause you to feel nauseous but it's easy to disable the pack.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhtiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/Round World Shaders v. 1.0.2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhempat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/duapuluhdua.png"
+    },
+    {
+        "name": "RSPE Shaders",
+        "role": "RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive. Some things which it changes are the clouds, water, lava and shadows. This is one of the best shader packs for version 0.16/0.17 for Minecraft PE. It has been specifically designed for iOS devices but it will also work on Android. All in all, it�s an amazing shaders pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhlima_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/RSPEShaderBeta.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/duapuluhtiga.png"
+    },
+    {
+        "name": "Realistic Shaders [16 16]",
+        "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
+    },
+    {
+        "name": "Winter HD (1.14+)",
+        "role": "This is a shaders which adds winter season with high definition of everything. Suitable for your map, and it is working smoothly in every low spec device. The size is just 2 MB. Interested? Feel free to try it out!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/tujuhpuluhsembilan_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/WinterHD.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/empatpuluh.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/delapanpuluh_desc.png"
+    },
+    {
+        "name": "Night Vision Pack (Shader)",
+        "role": "Forget about the torches. This shader pack pretty much removes darkness from the game and it doesn�t seem to affect other parts of the game in any way. This pack is suitable for anyone who want to be out exploring during the night or go on an adventure underground to explore caves. Everything will look the same except for the darkness which will be gone.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/empatpuluhtiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/Night Vision Pack 1.0.3.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhlima_desc.png"
+    },
+    {
+        "name": "SEUS PE Shader (Medium)",
+        "role": "This is to date the most realistic shaders pack for Minecraft PE. The light of the sun and moon shimmers beautifully when reflected on the water. Shadows have been massively improved and so have the sky and the Nether. The hype for this is real and you should definitely give it a try if you want to experience a more realistic version of Minecraft. Creator: Gabriel Paixão",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/seusstandard.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/1.jpg"
+    },
+    {
+        "name": "Ultra Source Reload Shader (Windows 10)",
+        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it's only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/UltraSource Reload Shader 1.2 Ultra W10.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/1.jpg"
+    },
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": "ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png"
+    },
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": " ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/1.png"
+    },
+    {
+        "name": "Smaller Shield",
+        "role": "The shield's visual has been shrunk by a few pixels in each direction and its position is adjusted slightly to make it less obtrusive on your screen without changing its functionality or hitbox.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/16/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/16/SmallerShield.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/16/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/16/3.png"
+    },
+    {
+        "name": "Medieval Mobs Addon BEH",
+        "role": "This is an addon which adds (and/or replaces) many new mobs to Minecraft Pocket Edition. Some of them are based on mythical creatures, such as the giant, and others are just replacements for current mobs to make them look more suited for medieval times. One really cool feature is that most mobs have their own custom sounds.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/1.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/medieval-mobs-behavior-5.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/3.jpg"
+    },
+    {
+        "name": "Medieval Mobs Addon RES",
+        "role": "This is an addon which adds (and/or replaces) many new mobs to Minecraft Pocket Edition. Some of them are based on mythical creatures, such as the giant, and others are just replacements for current mobs to make them look more suited for medieval times. One really cool feature is that most mobs have their own custom sounds.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/5.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/medieval-mobs-resources-5.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/4.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Shrink/17/1.jpg"
     }
-  ],
-  "Texture": [
+    ],
+    "Skins": [
+      {
+        "id": 5328665981,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/h92wkHUDFgyqYavmiLitgul4pbwLlL56SgTPM8ekfxbQfXou1bfcMzESgz775S_FCVD3-mmrlzK0EFjEMQ_ecYfdQDNkL3r0bEg",
+        "view_skin": "https://lh3.googleusercontent.com/kOKRQ_DQpUcN0eqeXPt-o3sA7PXRhfhAsRgEJwoaOL8bUIavESVgPtwZ5tkpbLM-y27AtJcKiO6BejcDOcekQhiofVlaP_74rwts"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "id": 5120363127,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/j-UtMYJg99y9OBUGatXn5CwYdZTwFolLDzHbrtyCGsL6S9Pdnn39ga01ebVmSLNPM0hxxgJbLx-R8kZWC_SxWVEt5InoLbTJftQ",
+        "view_skin": "https://lh3.googleusercontent.com/ok_FdHzR6ws5NAlgPGB2t8Mb9HjO_jBGtHXZvUQc5EFaztoD6iHg96b5_1ovdAZ6He5pHTDmIRb-0cJNmTlDgqAtMkXsyRdmhiU"
+    },
+    {
+        "id": 4832664195,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/rjv57E19ezyuUfq_SbfuNwOg5jGi0XnRn8IMVJIg8f1iyBorUyVCfUYqT9idhGhLaFMyAnC8lXxdmBeKN1zCA7u6C_EIUrTYTvY",
+        "view_skin": "https://lh3.googleusercontent.com/OKpqBUELs0rGGTo-2fp9pWDyJFyg9V6HIJ4AJ03MESe9MqHBr3Ye4RWpBVSHiW8mHPISW8mOF1XUw26F4SETGPs2lTTdD9RqFQ"
+    },
+    {
+        "id": 1255053163,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/cBqSQLFago6ZK9JyQPfnw0S5kv-Vd1qdux5Dm1Ws4t_Xjsx8gjDAxk5TOzxz1B9W0abBHYtb1vp_YG1hKipFSg",
+        "view_skin": "https://lh3.googleusercontent.com/TH5NxTfw8yO8SX-QJzXgdjIkci-LQawxmU2dKyQqbefGQP0DHi45Cxi84MhCXqPf8lPEUr6p_rkwYEvL3UG5"
+    },
+    {
+        "id": 6424124358656000,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/YJww4Ue4mNwxNzsYpjJ0X8RvUQ6UhKnP3cE4zpy3INugHAGDurdgX883Jefr_0-wuT_zGPCW-96vKZ3-qYzF",
+        "view_skin": "https://lh3.googleusercontent.com/1P_hu9mvUHmXJyb9_I02PzEom7fF8b6BxZ71KE0DQFhF-de2myRoMT2URU4ZK4YSpJQd9TvYl1gJ3dFyHZug"
+    },
+    {
+        "id": 6488160527187968,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/kkkvOmc5qVLTFcihZbIuenoHxmvGYYnb_FKbMCQxzOk5PiIj7yK65Wa8GOG45HxIGr4wUGQtaCAd5XREK4iHxA",
+        "view_skin": "https://lh3.googleusercontent.com/kvykZgBFQAseShnE3uI7uJn7fuK71ElXLNqDtH51vr79c_JHi7WrZl_dAT-WINkk0YA_S8-0rPgPXwWalKCbUA"
+    },
+    {
+        "id": 5853754747256832,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh4.ggpht.com/iTR99XEP0oKbg-xYl909LFmfZ52dVOT0O1otGqk3iUS8II64rPfwTvZHyF2n0ZLLkSCvNo_5yDSGDPl1doXM",
+        "view_skin": "https://lh3.googleusercontent.com/OuWKr1k98xGGXwbKinuE-NvziAptvzOtyG7D0StUJIGOk74N6jaDCR0xdI5GsdekI_pjMSOU4y-NV6oYRBHzsAE"
+    },
+    {
+        "id": 4704134809780224,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh5.ggpht.com/DJa43uiTnkBvrvKOUCn7J4GhtD8JW9rID9S3YnRgJkR9HO1W1M_pBcuCpOetbo7FUWzYRziIsWGXGEUzfX-o3g",
+        "view_skin": "https://lh3.googleusercontent.com/x2Equ-a89ta0J749EGCCaaAskDgzr78fOwVZT1NEaRriq1XivZVPERi5kv2-7qDBEFas_uCsHhTLW_wc_xMR"
+    },
+    {
+        "id": 4784643031171072,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh4.ggpht.com/ZSaeOtB9dXtQyS0rrcnXTCBowp4CG7AjtLuvn6gIwrs3_Klu2D_DX9Dqox2HYwhEFPj0y-ZufiO0HAoV4UgzwH8",
+        "view_skin": "https://lh3.googleusercontent.com/XLHbQtJG_b2dDV-dfCc6DMann9c9jypDq8fzS5VV2D34xy27WkiJdznJRl3f9QSES9GxuIoCsZI6LL6oBgXWwg"
+    },
+    {
+        "id": 4648433394,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/B3T5_d1wjI12kIv2U5nweMi7zMvWEnCz5Fvmvujg-YSZ1Js37Pq5qcX-isDT_Hfr_TlfIbTpFh_2aOkmX2dV7w",
+        "view_skin": "https://lh3.googleusercontent.com/_NXZSpK47T_Rv5ZfMi8TzRU_piHKzk_5ZuxigJIKKtHlxuNxvPksbW1hS6lIfY03bxJvMggJ4IcNaVZ1ycEVkw"
+    },
+    {
+        "id": 4807583109,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/o2MhWQXnowvdqQo3wiOokQ3993pDVSiE8mIAYbxIn5BmHDjK0q6M1Fm73sWa0Pxp1chCPUKkbiLqO2_cMJd0jxLVcBxiejvrmpM",
+        "view_skin": "https://lh3.googleusercontent.com/4drZkL4yqjpI8gNfgtYyDhKt4gsGpsHrjyaqGLka_0ipj-tCBjDINz55zviznAZHUXjPIvZa5ON5iQ0u78VsjZ-H15A16IrY_w"
+    },
+    {
+        "id": 5039443537,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/Ge-B5aINq4gG_x9se1CScDngg-xoMxw9rc59ZjHGzVskWbJj56q8bNSARjPxtBBDKcmKIJRia0vjSQOhb-3b3Q",
+        "view_skin": "https://lh3.googleusercontent.com/y0XBUXw0HG0HRinq1O7fNuXY1_rO0zG5-WPmO0QdqiTuWKt5qo2nYUjWWy_w1mmouQTZ5zTx92cn6XNIsyYU"
+    },
+    {
+        "id": 5390164254,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/gF5jV1YHfIjaXtuKQnZzMQsSagNrUSpgnFkBT3bK5Zzi0fkqLAundxP8c6JI_alGGQHhj9C8R56qKonaxSpnaI-EPrAUWgakogAM",
+        "view_skin": "https://lh3.googleusercontent.com/do9oysHzL2Le0HLKDGBeqlRBRQbkUhGdn_1ZGzBXy9qoa9De6fQt5eLTxsqs7Rb356jZ33yHeZJ8MxFrgO9aB0usAL0S5HsAGIA"
+    },
+    {
+        "id": 5337694878,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/DFW4esNgF6XbGItiSRvbI2T1O_nrSZyVfHeO773MEucUp5R8-8jYbn_ZyBWATne2XeF1ImsBNd75fkM_1XPgNw",
+        "view_skin": "https://lh3.googleusercontent.com/teXLf8Yo0T-J-_4F8EzsdCDsE9q5kNqxjE5yVHc9kHVZGMA2w-jCSbug0dc3cUCK518ejxOPlG5lIxXUPBIoy-2-BXkM2epFdQ"
+    },
+    {
+        "id": 5814333279,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/WYnJUcd509iJV-LUsmFioTSae2KD1ukMiEqrkjJfAMFcOtpENa8hcuyAnr5aDyHLwfCr48OND6rq2WssW-ugCEvRnxRz19AS-kA",
+        "view_skin": "https://lh3.googleusercontent.com/uD8fTjmW_6eA-I7a7NZ8RCwq5f2T3m28dTuMwRwigrYbGSzK1z6aUVOm-QoBpPzIoqMl8-cHZljfT1kp4MEcmHeuqP8MWTeMDqk"
+    },
+    {
+        "id": 2670383022,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/4qgsQAsWbVt3m66EUSAdVAIdXlR3uYam9VxdAma2CDrwVRiUcDp8sKNLz76h2W6EU2s_cVn7S57whXuOJPKtyLE",
+        "view_skin": "https://lh3.googleusercontent.com/3zYhdijcEyg-4YRNvEuR64i-XYpsyPDX---HiwVmjskYYBWhfBQsv6oirQAiYlMGqK_XvB8qQtPtTBAnwlJ2gWM"
+    },
+    {
+        "id": 5544933210,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/vJdnJCuX-EeoaXp8y7aqanuzy9X_GzaYubqKcbxrSN5KJHTN6492Ns4Em_rnFVlIITBeQpmSfI1_7DNB7I2FZt8oGCGg2cINKQ",
+        "view_skin": "https://lh3.googleusercontent.com/H2NUIHgb8zdNzfr9JNXGBbeyLjc_h04YWcZbYOaBkwuRybP2G6a5Z_UEHK06sa5LwabVZ_Vpuo7hni6_Tiyd-dcDu7BKECGVHA"
+    },
+    {
+        "id": 5156533533,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/Du93HrtmCXnlX9i2CrcwWKPscpAWoJg3G8C0gs9DCJ2OneqZH3Jn168p5OBmRawmDGRrBDsLXlHujkxzn6BTplSW_BUlBwOHSQ",
+        "view_skin": "https://lh3.googleusercontent.com/iR4GJyOHBPi1VCYbKx5JB0tFqfwHWz2Aemtc92Gg9edS5c-ujgcmub8v22pWvscOy8BvICRAAB9WYBmlmoXeMYpn-vSKef0Ln2CW"
+    },
+    {
+        "id": 4935214715,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/7Ox0P2khIrDAjvdqlg7jZPIPEPLelydQDnRlVT4OQy0YUoq-DFHoos57gz-KoSNXqpGCBa_GUdkYWaBcXuDHEtomwdGcJlk_Xgs",
+        "view_skin": "https://lh3.googleusercontent.com/Ieo7johxiel9F-4Pxo34YrxhPVvlnUfNr9FtjCkoc2Z5xwi4khz1oF4RHKLvrsHT1ZRMDHPEFCsz8xn5cqog9x6TaWIX0a-eeqo"
+    },
+    {
+        "id": 5830503877,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/ZxAWD1pv6z-ik4qmMDeGboCAseHAa-d8Vcw4PRzODa2Re2v8JzweuZt8kzEiuFX9QFDRga2hiQAACue0PBbrUxw6dBVrNSjvB2q1",
+        "view_skin": "https://lh3.googleusercontent.com/hSY8snGr_b_HNkLZhl1H38eLdRXpsqwG5QBGglDf3BWvyu7uh7fFUvcmSiUCXzdRCuEQqRNjqdgVJPtH3y_QN8ZjTeLZy8-wQgjz"
+    },
+    {
+        "id": 5045743313,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/vrmMAXfBFXjgP4-HA8llFy7hm_3yxf3EttGvcnbq0jastp2sgQ26Yiw3d9bR9YyzHqCqnsHFoHWtFCzPLrSdfo86kwnC0YDCdqY",
+        "view_skin": "https://lh3.googleusercontent.com/fwU_5aAzoAd-1OUMkSflnTP4z5JyGy42e02TVMWVwrc-P17pbkmIpZ_9CZQb-mQIgKAJIV-p5vZbGFo_wOO7UHoz0hHRwQSCLA"
+    },
+    {
+        "id": 4648543852,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/B3T5_d1wjI12kIv2U5nweMi7zMvWEnCz5Fvmvujg-YSZ1Js37Pq5qcX-isDT_Hfr_TlfIbTpFh_2aOkmX2dV7w",
+        "view_skin": "https://lh3.googleusercontent.com/Iir7agIHKKVw3gtbgv9t3LCZTeNFthh5LmttfJod1vLbh2WBzVNUve4pRDe0Ph2uULdXyiOiByx3gs14psz7yw"
+    },
+    {
+        "id": 4863573343,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/B3T5_d1wjI12kIv2U5nweMi7zMvWEnCz5Fvmvujg-YSZ1Js37Pq5qcX-isDT_Hfr_TlfIbTpFh_2aOkmX2dV7w",
+        "view_skin": "https://lh3.googleusercontent.com/RvZrBsprPSNBj_0smbTfqhrXte5zMNOAvrVFG8D3WUrgdgmlBFYo1rzLcqFdrDd2Wu5GQrpwjMYCK5M26EZq4X_b0mmsmBFjLfae"
+    },
+    {
+        "id": 5887613603,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/pq3zukhSdr75Xp4Mf1p7j31McT2E25YviKpCSEhj4gDJo252Q05R1otaGuFrPclkzODF4M5ylFSUkrmQcJKafkrlcTH0zKC5dZo",
+        "view_skin": "https://lh3.googleusercontent.com/TRTJjvJU_PCau_s9xzgFrVs8MKv2KSL6TxIMpZAyCDeDhZZFFOvswWNOfUmjiZvaIwXRRQ3ZPW2OrNgjk03mmz2i0X8LJ4GFjA"
+    },
+    {
+        "id": 5895723321,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/iA4T3FiqVY1UCG0d3ZrP4p_2TDcM2bT4C2Nj-aurwKKpXx-Hx73sEa6XMXwI2Cv7tyeTt1PWIlkQCmh5w8lR6OdTVgC8GlvpQx0",
+        "view_skin": "https://lh3.googleusercontent.com/K17KKwrw_HzhEMC82VkemsAWl5PfryAeNXK430rVYE322RRL0ioODXvRWd2LEJ5pWu5P_yMBcVnlXEZAGgB8L0pJdShziLnuhJA"
+    },
+    {
+        "id": 5885913689,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/Hzdxe1tnZZEIO10-otwNfq-mf9LLhXP4SOaxJNZJqeYV9CiTJqPFQjMUipPKg0LAvFIOea7r6LCEc1KYNnDosUtgy-49ZTHHh3xJ",
+        "view_skin": "https://lh3.googleusercontent.com/1Ly3zdcu2uDXovJSWVghinAo_aFZZHa3qG8voppLrWviikW5YOsL6IW_IX6gohMtTf8mR92NONrY-5KURUPSuPbjBfRIcS4C9g"
+    },
+    {
+        "id": 5903553473,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/EK17lqgGDtWWJMXZkGdKpEm5tmXG-1o4eSbTPL2QjPwCLeVKNlOUsfKnuZ8HF1oI5ghGH8PuJ7-llbeiauKo9yJCEP30Ky18534",
+        "view_skin": "https://lh3.googleusercontent.com/WBbr15FNBLwjdCeQA_rtcybOH4DXjIWGlvJE9NlmFISrQ4AfbMcOAwQxCWssDdzh7Vy9Hc6ploCX0mWvsRRd6IZ2hKQfGx3H6Q"
+    },
+    {
+        "id": 5897823235,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/6ZaOQZTaBmPPye8uAj198_piXGRxsYY7rp7iNh6OkPmS18GFgnn_EUnDkIXS5xGRo8pXKyfvnJKVqK1O7DkTvDxZ8D59ZtFuzFNm",
+        "view_skin": "https://lh3.googleusercontent.com/7C4xe3iWlVDFt7biWUTxT_OdCq4v-c6zZGjnGG63KPIjTGGNfjk0hBS06kyQYy9_Zy9216RqGHcTIh3BbYl2h129SHhP1OfIgY0"
+    },
+    {
+        "id": 5903523067,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/Du93HrtmCXnlX9i2CrcwWKPscpAWoJg3G8C0gs9DCJ2OneqZH3Jn168p5OBmRawmDGRrBDsLXlHujkxzn6BTplSW_BUlBwOHSQ",
+        "view_skin": "https://lh3.googleusercontent.com/h42pE7xczGcfpNbI7EcKQaQfMMXTA2M17BookBwnhLAusIuJkE1U-A8ztQvuPka9swk_rzwWyAMKqZSEXnfUgEfLo4AnegWuxdI"
+    },
+    {
+        "id": 5869404380,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/jllq2AFh7FoKs2S1WJps4gSaiIVZw0XrFH6mYlvm46tleDRMqIagthplNFWAJLVZX4zT6LvIPHDvC8oXOnPX8NLsuBRPuwyohA",
+        "view_skin": "https://lh3.googleusercontent.com/MD1JCVaXQjpPOROkBTA6P6A5jzMDdQD-JfYcdMsZZjX6cEdDxnbAmBclBAZWEFYBIc-5N3Kfgijm9n3MPaZKchk3qqAbs14FFZ4"
+    },
+    {
+        "id": 5877243293,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/htGbs0exo7Zn8vasjgWssZajtdC3JeeiXrMiD53wJ8IOt8ISG24P8z_BIXymcwzsec6aAwDf_m3rSqXZ_ClTMPfxJued5t5N95iZ",
+        "view_skin": "https://lh3.googleusercontent.com/MI19plEsJyUAOWbfrqYeel3-YoJNC6cxEs8LCz25halFQEM5Ws7jugEuhIDfk7HPC25biqTSP8yy8N-d4DmM2QHncg760wT6dRs"
+    },
+    {
+        "id": 5899203935,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/-teo0_j-8tjoU1ZrOAcK6jRfMJW2MA172g0uxi5xtziEIn51yqFDKhtyjkwFtbtaafNsB7mUqiPo7ZC5EiTIF1b1B6YljmsD1uE",
+        "view_skin": "https://lh3.googleusercontent.com/Wl20qiLdbWG1ueLSPeYUuRINCXwpUjlW1vzhEEkbKo7NEAM52Lk6GCHnFyzpCL-o1X_KTHo3cY1EcILU5NngjAm9bdRZlwXbsiw"
+    },
+    {
+        "id": 5897263500,
+        "name_skin": "Shrink Skin ",
+        "skin_url": "https://lh3.googleusercontent.com/mCxnFverJ1tbi5kKDTqRuV9yxPAGtwH3-UCSic13dOxtsM_QUpShu15Xx48x_MxKIyTof3dT_-aUAZfq-u-x_EAfoNRSNyAAb_8",
+        "view_skin": "https://lh3.googleusercontent.com/g7yrcveDZqJY9PUNER1h-KpYlHYBQi3LQqgkz28GpHxv5xnCal46v5ujlUH-Nk8Z0FriId0V4sK1qg2eSrK7xhJCCOmA1Cemoeo_"
     }
-  ],
-  "Skins": [
-    {
-    "id": 1,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/rjv57E19ezyuUfq_SbfuNwOg5jGi0XnRn8IMVJIg8f1iyBorUyVCfUYqT9idhGhLaFMyAnC8lXxdmBeKN1zCA7u6C_EIUrTYTvY",
-    "view_skin": "https://lh3.googleusercontent.com/OKpqBUELs0rGGTo-2fp9pWDyJFyg9V6HIJ4AJ03MESe9MqHBr3Ye4RWpBVSHiW8mHPISW8mOF1XUw26F4SETGPs2lTTdD9RqFQ"
-  },
-  {
-    "id": 2,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/cBqSQLFago6ZK9JyQPfnw0S5kv-Vd1qdux5Dm1Ws4t_Xjsx8gjDAxk5TOzxz1B9W0abBHYtb1vp_YG1hKipFSg",
-    "view_skin": "https://lh3.googleusercontent.com/TH5NxTfw8yO8SX-QJzXgdjIkci-LQawxmU2dKyQqbefGQP0DHi45Cxi84MhCXqPf8lPEUr6p_rkwYEvL3UG5"
-  },
-  {
-    "id": 3,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/YJww4Ue4mNwxNzsYpjJ0X8RvUQ6UhKnP3cE4zpy3INugHAGDurdgX883Jefr_0-wuT_zGPCW-96vKZ3-qYzF",
-    "view_skin": "https://lh3.googleusercontent.com/1P_hu9mvUHmXJyb9_I02PzEom7fF8b6BxZ71KE0DQFhF-de2myRoMT2URU4ZK4YSpJQd9TvYl1gJ3dFyHZug"
-  },
-  {
-    "id": 4,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/kkkvOmc5qVLTFcihZbIuenoHxmvGYYnb_FKbMCQxzOk5PiIj7yK65Wa8GOG45HxIGr4wUGQtaCAd5XREK4iHxA",
-    "view_skin": "https://lh3.googleusercontent.com/kvykZgBFQAseShnE3uI7uJn7fuK71ElXLNqDtH51vr79c_JHi7WrZl_dAT-WINkk0YA_S8-0rPgPXwWalKCbUA"
-  },
-  {
-    "id": 5,
-    "name_skin": "",
-    "skin_url": "https://lh4.ggpht.com/iTR99XEP0oKbg-xYl909LFmfZ52dVOT0O1otGqk3iUS8II64rPfwTvZHyF2n0ZLLkSCvNo_5yDSGDPl1doXM",
-    "view_skin": "https://lh3.googleusercontent.com/OuWKr1k98xGGXwbKinuE-NvziAptvzOtyG7D0StUJIGOk74N6jaDCR0xdI5GsdekI_pjMSOU4y-NV6oYRBHzsAE"
-  },
-  {
-    "id": 6,
-    "name_skin": "",
-    "skin_url": "https://lh5.ggpht.com/DJa43uiTnkBvrvKOUCn7J4GhtD8JW9rID9S3YnRgJkR9HO1W1M_pBcuCpOetbo7FUWzYRziIsWGXGEUzfX-o3g",
-    "view_skin": "https://lh3.googleusercontent.com/x2Equ-a89ta0J749EGCCaaAskDgzr78fOwVZT1NEaRriq1XivZVPERi5kv2-7qDBEFas_uCsHhTLW_wc_xMR"
+    ],
+    "More":
+    [
+        
+        
+    
+      {
+        "id":1,
+        "title":"",
+        "image":"",
+        "link":"https://google.com/"
+      }
+    
+  
+        
+        
+        ]
   }
-  ],
-  "More":
-  [
-      
-      
   
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://google.com/"
-    }
-  
-
-      
-      
-      ]
-}
